@@ -16,9 +16,9 @@ variable "management_ip" {
 
 variable "provisioning_example-zones" {
     default = {
-        zone0 = "eu-west-2a"
-        zone1 = "eu-west-2b"
-        zone2 = "eu-west-2c"
+        zone0 = "us-west-2a"
+        zone1 = "us-west-2b"
+        zone2 = "us-west-2c"
     }
 }
 
